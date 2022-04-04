@@ -1,0 +1,17 @@
+[
+  {
+    "asset_id": "ICONS",
+    "name": "ICONS",
+    "type_is_crypto": 1,
+    "data_quote_start": "2021-11-25T12:00:00.3686143Z",
+    "data_quote_end": "2022-04-03T07:51:39.6092058Z",
+    "data_trade_start": "2021-11-25T12:00:00.0520000Z",
+    "data_trade_end": "2022-04-03T07:53:09.0160000Z",
+    "data_symbols_count": 2,
+    "volume_1hrs_usd": 0,
+    "volume_1day_usd": 0,
+    "volume_1mth_usd": 0,
+    "data_start": "2021-11-25",
+    "data_end": "2022-04-03"
+  }
+]
